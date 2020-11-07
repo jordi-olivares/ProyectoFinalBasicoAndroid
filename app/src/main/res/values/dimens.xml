@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="dimTitulo">40sp</dimen>
+    <dimen name="btnTamaño">20sp</dimen>
+    <dimen name="altoBtn">100dp</dimen>
+    <dimen name="anchoBtn">400dp</dimen>
+    <dimen name="rBtm">10dp</dimen>
+    <dimen name="gruesoBtn">1dp</dimen>
+</resources>
